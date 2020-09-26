@@ -1,0 +1,16 @@
+*{
+    box-sizing:border-box;
+}
+#localVideo {
+  /* filter:sepia(2) opacity(1) contrast(.4); */
+  border:1px solid;
+  position:relative;
+  
+}
+
+
+.screenshot{
+  width:350px;
+  height:300px;
+  border:1px solid;
+}
